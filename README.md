@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trialerror-phase
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python programing 
-- 💞️ I’m looking to collaborate on security proects 
+- 🌱 Looking for a picture perfect world.
+- 💞️ I’m looking to collaborate on security projects 
 - 📫 How to reach me nyangayiotuya@gmail.com
 - 
 
