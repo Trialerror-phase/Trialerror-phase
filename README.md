@@ -20,6 +20,6 @@ Welcome to my GitHub! I'm passionate about technology, programming, and constant
 
 ## 💼 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/grace-otuya/)
-- 🌐 [Your Personal Website or Blog](https://grace-otuya.vercel.app/)
+- 🌐 [Personal Website ](https://grace-otuya.vercel.app/)
 
 Thanks for stopping by! 😊
